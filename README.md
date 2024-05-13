@@ -1,1 +1,1 @@
-# event-website
+# wedding-website
